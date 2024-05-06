@@ -1,1 +1,1 @@
-[]
+[{"symbol": "PFS", "series": "EQ", "open_price": 43.65, "high_price": 45.5, "low_price": 42.4, "close_price": 42.4, "last_price": 42.4, "prev_close_price": 44.6, "tot_traded_qty": 1324133.0, "tot_traded_value": 56934783.8, "timestamp": "2024-05-06", "tot_trads": 6983.0, "isin": "INE560K01014", "day_pnl": -2, "day_pnl_pr": -5.0, "seven_day_return": null, "fifteen_day_return": null, "thirty_day_return": null, "ytd_day_return": 1.31, "sixty_day_return": null, "ninty_day_return": -27.46, "one80_day_return": 31.68, "three60_day_return": 176.22, "trend": "Down Trend"}]
