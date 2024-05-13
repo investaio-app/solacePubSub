@@ -1,1 +1,1 @@
-[]
+[{"symbol": "APOLLO", "series": "EQ", "open_price": 104.0, "high_price": 104.0, "low_price": 97.5, "close_price": 99.6, "last_price": 99.95, "prev_close_price": 101.6, "tot_traded_qty": 616444.0, "tot_traded_value": 61313895.9, "timestamp": "2024-05-13", "tot_trads": 9575.0, "isin": "INE713T01028", "day_pnl": -2, "day_pnl_pr": -2.0, "seven_day_return": null, "fifteen_day_return": -9.17, "thirty_day_return": -10.83, "ytd_day_return": null, "sixty_day_return": null, "ninty_day_return": null, "one80_day_return": -18.53, "three60_day_return": 195.11, "trend": "Down Trend"}]
