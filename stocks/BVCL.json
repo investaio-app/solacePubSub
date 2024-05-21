@@ -1,1 +1,1 @@
-[]
+[{"symbol": "BVCL", "series": "EQ", "open_price": 57.0, "high_price": 57.0, "low_price": 54.2, "close_price": 55.05, "last_price": 54.65, "prev_close_price": 56.05, "tot_traded_qty": 14163.0, "tot_traded_value": 784415.95, "timestamp": "2024-05-21", "tot_trads": 276.0, "isin": "INE139I01011", "day_pnl": -1, "day_pnl_pr": -2.0, "seven_day_return": null, "fifteen_day_return": null, "thirty_day_return": null, "ytd_day_return": null, "sixty_day_return": null, "ninty_day_return": null, "one80_day_return": null, "three60_day_return": 55.73, "trend": "Down Trend"}]
