@@ -1,1 +1,1 @@
-[]
+[{"symbol": "ALMONDZ", "series": "EQ", "open_price": 116.0, "high_price": 119.0, "low_price": 115.0, "close_price": 116.95, "last_price": 117.3, "prev_close_price": 114.05, "tot_traded_qty": 47345.0, "tot_traded_value": 5568629.05, "timestamp": "2024-05-29", "tot_trads": 408.0, "isin": "INE326B01027", "day_pnl": 2, "day_pnl_pr": 2.0, "seven_day_return": -0.17, "fifteen_day_return": -0.17, "thirty_day_return": -0.17, "ytd_day_return": -0.17, "sixty_day_return": -0.17, "ninty_day_return": -0.17, "one80_day_return": 25.89, "three60_day_return": 67.67, "trend": "Down Trend"}]

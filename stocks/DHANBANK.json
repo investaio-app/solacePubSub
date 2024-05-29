@@ -1,1 +1,1 @@
-[]
+[{"symbol": "DHANBANK", "series": "EQ", "open_price": 41.5, "high_price": 42.2, "low_price": 41.5, "close_price": 41.9, "last_price": 41.95, "prev_close_price": 41.95, "tot_traded_qty": 573149.0, "tot_traded_value": 23992240.95, "timestamp": "2024-05-29", "tot_trads": 3025.0, "isin": "INE680A01011", "day_pnl": 0, "day_pnl_pr": 2.0, "seven_day_return": -0.12, "fifteen_day_return": -0.12, "thirty_day_return": -0.12, "ytd_day_return": -0.12, "sixty_day_return": -0.12, "ninty_day_return": -0.12, "one80_day_return": 46.5, "three60_day_return": 144.31, "trend": "Down Trend"}]

@@ -1,1 +1,1 @@
-[]
+[{"symbol": "USK", "series": "EQ", "open_price": 56.25, "high_price": 59.1, "low_price": 56.1, "close_price": 57.2, "last_price": 57.55, "prev_close_price": 57.0, "tot_traded_qty": 295112.0, "tot_traded_value": 17040091.2, "timestamp": "2024-05-29", "tot_trads": 2803.0, "isin": "INE0N0Y01013", "day_pnl": 0, "day_pnl_pr": 2.0, "seven_day_return": -1.29, "fifteen_day_return": -1.29, "thirty_day_return": -1.29, "ytd_day_return": -1.29, "sixty_day_return": -1.29, "ninty_day_return": -1.29, "one80_day_return": 53.15, "three60_day_return": 86.02, "trend": "Down Trend"}]
